@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fineNineJun
 - 👀 I’m interested in ☕️ 🍵 🎞️ 🚵
-- 🌱 I’m working hard
+- 🌱 I’m working
 - 📫 [mailto: jun_059@163.com](mailto:jun_059@163.com)
 
 <!-- ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=fineNineJun&show_icons=true&theme=dracula)
